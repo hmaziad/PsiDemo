@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hmaziad.psidemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hmaziad.psidemo.MyBundle
 
 class MyApplicationService {
 
